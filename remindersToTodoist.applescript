@@ -11,6 +11,11 @@ var listName = '...',
 // ---------
 
 var app = Application.currentApplication(),
+
+	// get all running processes
+	procs = Application('System Events').processes,
+	quitAfterFinish = procs.name().indexOf('Reminders') == -1,
+	
 	r = Application('Reminders'),
 	lists = r.lists,
 	list = 0;
@@ -82,6 +87,8 @@ if (list) {
 	// execute commands (create todoist items) with one request
 	if (cmds.length) todoistCmd(cmds);
 }
+// quit reminders if it wasn't running before
+if (quitAfterFinish) r.quit();
 
 /**
  * execute todoist commands (todoist api)
