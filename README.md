@@ -2,8 +2,8 @@
 
 This script transfers your reminders from Apple Reminders to your Todoist.
 
-![Transfer your Apple Reminders to Todoist](http://i.dv.tl/sc1.png)  
-![All accessible information will be transfered](http://i.dv.tl/sc2.png)
+![Transfer your Apple Reminders to Todoist](http://i.dv.tl/sc1_2.png)  
+![All accessible information will be transfered](http://i.dv.tl/sc2_2.png)
 
 ## Which information will be transfered
 
