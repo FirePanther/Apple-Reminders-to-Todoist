@@ -13,7 +13,7 @@ This script transfers your reminders from Apple Reminders to your Todoist.
 Todoist Premium*
 - The priority
 
-## Which NOT
+## What *NOT*
 
 *(Applescript has no access to these information yet)*
 
