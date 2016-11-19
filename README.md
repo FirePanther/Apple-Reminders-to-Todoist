@@ -3,9 +3,9 @@
 This script transfers your reminders from Apple Reminders to your Todoist.
 
 ![Transfer your Apple Reminders to Todoist](http://i.dv.tl/sc1_2.png)  
-![All accessible information will be transfered](http://i.dv.tl/sc2_2.png)
+![All accessible information will be transferred](http://i.dv.tl/sc2_2.png)
 
-## Which information will be transfered
+## What information will be transferred
 
 - The title/name of the reminder
 - The body/description (adds a Todoist "note") - *only Todoist Premium*
@@ -20,7 +20,7 @@ Todoist Premium*
 - Remind by location
 - Remind interval/repetition (e.g. daily)
 
-## Why/When you should use this script
+## Why/When you should use this script?
 
 If you prefer to use Todoist over Reminders but still want to use Siri for
 creating ToDo's (e.g. on your iPhone or on your Apple Watch). You could use some
