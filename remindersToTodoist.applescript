@@ -1,7 +1,7 @@
 /**
  * @author           Suat Secmen (http://suat.be)
  * @copyright        2016 Suat Secmen
- * @license          GNU General Public License
+ * @license          MIT License <https://github.com/FirePanther/AppleRemindersToTodoist#license>
  */
 
 // config
