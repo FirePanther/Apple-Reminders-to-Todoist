@@ -56,6 +56,17 @@ Or run this script automatically (like daily or hourly) via cronjob. You can
 edit your cronjobs by runningy `crontab -e` on the Terminal or just install
 [Cronnix](https://www.macupdate.com/app/mac/7486/cronnix) for editing over a GUI.
 
+## Recommended
+
+If you run this script as a cron job (like me) and it's annoys you to see the
+Reminders app icon in the Dock every few hours (like me), you can hide the
+Reminders Dock icon with this script:  
+https://github.com/FirePanther/MacOS-Hide-Dock-Icon
+
+After hiding the icon you have to run the Reminders app, accept everything
+(Reminders want to access this and that), quit the app and open it again.
+If everything is fine you should see your lists and reminders and no Dock icon.
+
 # License
 
 #### MIT License
