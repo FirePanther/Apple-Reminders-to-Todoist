@@ -56,12 +56,14 @@ Or run this script automatically (like daily or hourly) via cronjob. You can
 edit your cronjobs by runningy `crontab -e` on the Terminal or just install
 [Cronnix](https://www.macupdate.com/app/mac/7486/cronnix) for editing over a GUI.
 
-## Recommended
+## -Recommended-
 
-If you run this script as a cron job (like me) and it's annoys you to see the
-Reminders app icon in the Dock every few hours (like me), you can hide the
-Reminders Dock icon with this script:  
+If you run this script as a cron job (like me) and it annoys you to see the
+Reminders app icon in the Dock every few hours (like me), -you can hide the
+Reminders Dock icon with this script-:  
 https://github.com/FirePanther/MacOS-Hide-Dock-Icon
+
+Edit: After the latest MacOS Updates you shouldn't hide native apps anymore. My AppleScript hadn't Reminders permissions anymore.
 
 After hiding the icon you have to run the Reminders app, accept everything
 (Reminders want to access this and that), quit the app and open it again.
